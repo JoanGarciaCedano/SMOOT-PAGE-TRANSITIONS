@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/JoanGarciaCedano/SMOOT-PAGE-TRANSITIONS/issues"
   },
-  "homepage": "https://github.com/JoanGarciaCedano/SMOOT-PAGE-TRANSITIONS#readme"
+  "homepage": "https://github.com/JoanGarciaCedano/SMOOT-PAGE-TRANSITIONS#readme",
+  "dependencies": {
+    "@dogstudio/highway": "^2.1.2",
+    "gsap": "^2.1.2"
+  }
 }
